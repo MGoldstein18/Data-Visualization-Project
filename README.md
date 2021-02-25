@@ -11,4 +11,4 @@ This is a data visualization project which uses pandas, matplotlib and seaborn t
 - It seems clear that a GDP and life expectancy are somewhat correlated - countries with higher average GDPs tend to have higher average life expectancies. 
 - It is also clear that there are not perfectly correlated and that the two can increase independently - see the scatter plot below:
 
-(/scatter.png)
+![Scatter Plot](/scatter.png)
